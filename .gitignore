@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/X509CertificateManager
+/Certificate.TestApp/bin/Debug/netcoreapp3.1
+/Certificate.TestApp/obj
+/NCoreProjects.X509Certificate/bin/Debug/netcoreapp3.1
+/NCoreProjects.X509Certificate/obj
